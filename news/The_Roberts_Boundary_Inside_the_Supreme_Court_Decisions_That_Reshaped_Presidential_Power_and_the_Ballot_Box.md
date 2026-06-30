@@ -1,0 +1,33 @@
+# The Roberts Boundary: Inside the Supreme Court Decisions That Reshaped Presidential Power and the Ballot Box
+
+On the morning of June 29, 2026, the Supreme Court of the United States issued three landmark rulings that redefined the separation of powers in federal governance and solidified voting procedures in thirty states. The decisions in [Trump v. Slaughter](file:///Users/vzl/.gemini/antigravity-cli/brain/c686eb69-fa1a-4f9e-b7bb-3aab5edbd275/supreme_court_investigation_2026.md), [Trump v. Cook](file:///Users/vzl/.gemini/antigravity-cli/brain/c686eb69-fa1a-4f9e-b7bb-3aab5edbd275/supreme_court_investigation_2026.md), and [Watson v. Republican National Committee](file:///Users/vzl/.gemini/antigravity-cli/brain/c686eb69-fa1a-4f9e-b7bb-3aab5edbd275/supreme_court_investigation_2026.md) represent a critical realignment of constitutional law, balancing a significant expansion of the unitary executive branch against the preservation of central bank independence and state-level election administrations.
+
+The day’s most structural constitutional shift came in *Trump v. Slaughter* (No. 25-332). In a 6–3 decision, Chief Justice John Roberts, writing for the majority, ruled that statutory "for-cause" removal protections for Federal Trade Commission (FTC) commissioners are unconstitutional. The ruling formally overturned the 1935 precedent established in *Humphrey’s Executor v. United States*, which had protected members of independent regulatory agencies from arbitrary presidential dismissal for nearly a century.
+
+The litigation arose from President Donald Trump's March 2025 removal of FTC Commissioner Rebecca Kelly Slaughter. The administration did not cite "inefficiency, neglect of duty, or malfeasance in office"—the statutory standard required under the FTC Act—but instead stated her service was "inconsistent with his Administration's priorities." Slaughter challenged the removal in federal court, winning an initial victory before the Supreme Court took the case.
+
+Chief Justice Roberts, joined by the conservative majority, anchored the decision in the "unitary executive theory." Roberts wrote that because the Constitution vests the entire executive power in the President under Article II, officers who exercise executive functions—including rulemaking, investigation, and enforcement—must remain directly accountable to the President through at-will removal. 
+
+Justice Sonia Sotomayor, joined by Justices Elena Kagan and Ketanji Brown Jackson, delivered an dissent, reading a summary of her opinion from the bench. Sotomayor warned that the ruling threatens the collapse of regulatory independence, leaving other long-insulated independent bodies—such as the National Labor Relations Board (NLRB) and the Consumer Product Safety Commission (CPSC)—vulnerable to immediate partisan reorganizations.
+
+While the Court dismantled the protections of the FTC, it drew a strict boundary around the nation's monetary authority in *Trump v. Cook* (No. 25A312). In a 5–4 decision, the Court blocked the administration's attempt to immediately remove Federal Reserve Governor Lisa Cook. 
+
+The dispute began in August 2025, when President Trump announced via social media that he was firing Cook—who was appointed by then-President Joe Biden to a term extending to 2038—alleging mortgage fraud. Cook denied the allegations, refused to step down, and filed a lawsuit asserting her statutory protections under the Federal Reserve Act.
+
+Chief Justice Roberts, joined by the three liberal justices and Justice Brett Kavanaugh, affirmed a lower court's preliminary injunction. The majority held that the President failed to provide Cook with the basic procedural protections—specifically notice and an opportunity to respond to the allegations—required by law before a statutory removal can take place. 
+
+The Court distinguished the Federal Reserve from other independent agencies, emphasizing its constitutionally distinct status and the historical necessity of insulating the central bank's rate-setting authority from direct political control. Treating the Fed's "for-cause" protections as at-will employment, Roberts wrote, would compromise the stability of the U.S. financial system.
+
+In dissent, Justice Samuel Alito, joined by Justices Clarence Thomas, Neil Gorsuch, and Amy Coney Barrett, argued that the President's removal power must extend to all executive officers, asserting that the majority’s decision carved out an unjustifiable constitutional exception for the Federal Reserve.
+
+In the third major ruling of the day, *Watson v. Republican National Committee* (Docket No. 24-1260), the Court addressed a critical voting rights dispute ahead of the 2028 election. In a 5–4 decision, the Court ruled that federal election-day statutes do not preempt state laws allowing mail-in ballots to be counted if they are cast and postmarked by Election Day, even if they arrive at local election offices after that date.
+
+The case originated from Mississippi, where the Republican National Committee challenged a state law allowing a five-business-day grace period for postmarked mail-in ballots. The RNC argued that federal statutes establishing a uniform Election Day require all ballots to be received by the time polls close.
+
+Justice Amy Coney Barrett, writing for the majority, was joined by Chief Justice Roberts and the three liberal justices. Barrett wrote that federal law sets the date for the electorate's choice but does not govern the administrative timeline for receiving and processing those choices. The ruling preserves the mail-in ballot receipt laws in approximately 30 states and the District of Columbia.
+
+Justice Alito, writing in dissent alongside Justices Thomas and Gorsuch, argued that federal statutes establish a single, strict deadline for both casting and receiving ballots. Justice Kavanaugh also dissented in part.
+
+The combination of the June 29 decisions creates a complex legal landscape. While executive authority over the broader federal bureaucracy has been significantly expanded, the independence of the Federal Reserve remains legally protected. Concurrently, the preservation of state-level grace periods for mail-in ballots maintains the status quo for mail-in voting procedures across the country, setting the legal parameters for the upcoming 2028 presidential campaign.
+
+*(Note: The final version of this article has also been saved to the workspace as a markdown document: [supreme_court_investigation_2026.md](file:///Users/vzl/.gemini/antigravity-cli/brain/c686eb69-fa1a-4f9e-b7bb-3aab5edbd275/supreme_court_investigation_2026.md))*
