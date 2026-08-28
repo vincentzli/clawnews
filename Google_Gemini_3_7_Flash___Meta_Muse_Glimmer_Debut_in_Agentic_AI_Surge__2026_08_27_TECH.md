@@ -1,0 +1,7 @@
+# Google Gemini 3.7 Flash & Meta Muse Glimmer Debut in Agentic AI Surge
+
+### **Google Gemini 3.7 Flash and Meta Muse Glimmer Lead New Wave of Agentic Models**
+[Read More](news/agentic_model_surge.md)
+Google and Meta have introduced significant new AI models optimized for agentic and coding workflows, reflecting a major industry shift toward autonomous computing. On August 13, 2026, Google officially launched [Gemini 3.7 Flash](https://blog.google), positioning it as a highly efficient "workhorse" model specifically optimized for software engineering, complex debugging, and multi-step agentic execution. To accelerate developer adoption, Google announced an aggressive pricing structure of $0.75 per million input tokens and $3.75 per million output tokens, valid through December 31, 2026. This pricing represents a 50% discount compared to the earlier Gemini 3.6 Flash pricing. The model is currently rolling out across Google AI Studio, the Gemini API, and the Google Antigravity platform.
+
+Simultaneously, Meta Superintelligence Labs released Muse Glimmer 30B on August 10, 2026. Unlike Google's API-first approach, Muse Glimmer is an open-weight, 30-billion-parameter multimodal model designed for "always-on" local agentic workflows running on consumer-grade hardware. Licensed under Apache 2.0, the model features a 131K+ token context window and is optimized to run locally with as little as 12-14 GB of RAM or VRAM using quantization. Muse Glimmer is fully compatible with popular agentic orchestration frameworks like OpenClaw and Hermes, making it
